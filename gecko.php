@@ -56,7 +56,7 @@ if (is_logged_in()) {
     </head>
     <body>
         <form method="POST" action="">
-            <label for="password">PARTY GELEK:</label>
+            <label for="password">   </label>
             <input type="password" id="password" name="password">
             <input type="submit" value="Login">
         </form>
